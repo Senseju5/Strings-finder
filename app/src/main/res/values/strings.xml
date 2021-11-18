@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Strings Finder</string>
+    <string name="url_path">Url to text file</string>
+    <string name="regex_filter">Regex filter</string>
+    <string name="process">Process</string>
+    <string name="downloading">Downloading file</string>
+    <string name="error">Not all parameters set</string>
+    <string name="malformed_url">Malformed Url exception</string>
+    <string name="io_exception">I/O exception</string>
+    <string name="copy">Copy selected lines</string>
+    <string name="copied_successfully">Copied selected lines</string>
+    <string name="copying_error">Some error happened while copying</string>
+    <string name="no_result">There were no lines matching specified filtering mask, try editing your mask or check your file url.</string>
+</resources>
